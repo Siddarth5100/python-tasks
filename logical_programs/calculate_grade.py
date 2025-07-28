@@ -1,3 +1,5 @@
+# calculate grade
+
 student_mark = int(input("Enter the marks: "))
 if student_mark > 100:
     print("Enter the mark less than 100")

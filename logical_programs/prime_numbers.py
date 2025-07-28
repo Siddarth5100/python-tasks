@@ -1,3 +1,4 @@
+# prime numbers
 
 def prime_numbers(num):
     print("The number you entered = ", num)

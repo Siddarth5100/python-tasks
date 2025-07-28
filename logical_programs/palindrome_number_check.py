@@ -1,4 +1,4 @@
-#task_1 : Write a program that checks whether a given number is a palindrome.
+# Write a program that checks whether a given number is a palindrome.
 
 def check_palindrome(number):
     print("Number you entered:", number)

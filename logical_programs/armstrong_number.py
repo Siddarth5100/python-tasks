@@ -1,3 +1,5 @@
+# armstrongnumber
+
 def armstrongnumber(a):
     print("Number you entered =", a)
 
@@ -13,6 +15,5 @@ def armstrongnumber(a):
         print("It is an Armstrong number!")
     else:
         print("Not an Armstrong number")
-
 
 armstrongnumber(123)

@@ -1,4 +1,4 @@
-#task_2 : Write a program that calculates the sum of all digits in a number.
+# Write a program that calculates the sum of all digits in a number.
 
 def add(a):
     total = 0 

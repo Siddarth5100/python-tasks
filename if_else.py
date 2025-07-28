@@ -1,7 +1,5 @@
-if(False):
-    print("Yes")
-else:
-    print("no")
+
+# mark & income
 
 mark = int(input("Enter your mark here: "))
 if mark >= 35:

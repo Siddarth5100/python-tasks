@@ -1,3 +1,4 @@
+# coffeeshop_order
 
 def greet():
     print("Good day")
@@ -14,29 +15,21 @@ def get_item_name():
 
 def coffee_shop_order():
     greet()
-    print("Items availabe: ")  # items: coffee,biscuit,samosa,puffs
+    print("Items availabe: ")  # items:coffee,biscuit,samosa,puffs
     
     #print(get_item_name())
     
     selected_item = get_item_name()
     
-    print("You're oredered received: ", selected_item)
-
-    
+    print("You're oredered received: ", selected_item) 
 
     if selected_item in menu:
-        qty = int(input("Enter the no.of.quantity: "))  #  total amount = quantity * rate
+        qty = int(input("Enter the no.of.quantity: "))  #total amount = quantity * rate
         total_amount = qty * item_rates[selected_item]
         print("Your total amount: ", total_amount)
         
-
-
     else:
         print("Kindly enter the valid items")
-
-
- 
-
 
 coffee_shop_order()
 
