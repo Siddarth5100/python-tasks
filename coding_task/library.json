@@ -1,0 +1,20 @@
+{
+    "books": {
+        "B1001": {
+            "title": "Mist",
+            "author": "Cohelo",
+            "copies": 10
+        },
+        "B1002": {
+            "title": "st",
+            "author": "elo",
+            "copies": 5
+        },
+        "B100": {
+            "title": "shbt",
+            "author": "elo",
+            "copies": 5
+        }
+    },
+    "users": {}
+}

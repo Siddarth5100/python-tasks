@@ -1,0 +1,27 @@
+{
+    "books": {
+        "B1000": {
+            "title": "python basics",
+            "author": "john",
+            "copies": 3
+        },
+        "B1001": {
+            "title": "est",
+            "author": "helo",
+            "copies": 10
+        }
+    },
+    "users": {
+        "U0001": {
+            "name": "siddhu",
+            "borrowed books": [
+                "B1000",
+                "B10001"
+            ]
+        },
+        "1": {
+            "name": "s",
+            "role": "d"
+        }
+    }
+}
